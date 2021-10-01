@@ -1,6 +1,6 @@
 - 👋  Hola, I’m @paulagdv97
 - 🇪🇸  Spaniard living in Cologne 🇩🇪
-- 🙋‍♀️  I love travelling, going out for drinks with my friends, and watching sunsets 
+- 🙋‍♀️  I love travelling & going out for drinks with my friends 
 - 🤓  I’m currently changing career paths and learning how to code 
 
 
