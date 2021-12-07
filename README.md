@@ -1,7 +1,8 @@
 - 👋  Hola, I’m @paulagdv97
 - 🇪🇸  Spaniard living in Cologne 🇩🇪
-- 🙋‍♀️  I love travelling & going out for drinks with my friends 
+- 🌍  I love travelling & meeting new people from all around the world
 - 🤓  I’m currently changing career paths and learning how to code 
+- 👩🏼‍💻  Le Wagon Bootcamp Batch #740 recent grad
 
 
 <!---
